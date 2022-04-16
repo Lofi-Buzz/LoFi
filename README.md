@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/103798110/163657664-18fcba0c-05fa-4f58-8a2a-cd7109bb82b2.png)
+
 # LoFi
 
 ## Overview
