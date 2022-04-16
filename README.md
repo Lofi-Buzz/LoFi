@@ -4,7 +4,7 @@
 
 ## Overview
 
-Light, Camera, Action! LoFi Transforms You Into NFT Avatars.
+### Light, Camera, Action! LoFi Transforms You Into NFT Avatars.
 
 LoFi is evolving towards a metaverse communication hub where NFT holders can express their values and actively interact with others free and openly.
 
